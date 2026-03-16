@@ -1,8 +1,8 @@
 class Moment < Formula
   desc "Command-line tool to list calendar events and reminders for the next 7 days"
   homepage "https://github.com/notahat/moment"
-  url "https://github.com/notahat/moment/archive/v0.3.0.tar.gz"
-  sha256 "5c8c62d3d49a950dc91c80c4323eccc5a0956df4cafd5c83cb077342e3e3cd51"
+  url "https://github.com/notahat/moment/archive/v0.4.0.tar.gz"
+  sha256 "1caa5e4d2df95ada239bad864b64e1cb3e181bb7138288b2a37f4786a33c9fdc"
   license "MIT"
 
   depends_on xcode: ["16.0", :build]
